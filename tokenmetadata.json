@@ -1,6 +1,12 @@
 {
-  "name": "Solmnc",
-  "symbol": "SMH",
-  "description": "Solana big huge token",
-  "image": "https://raw.githubusercontent.com/Scott1511/metadata/d36f604576c47fa2e93d147e3048335ada77194f/cat.jpg"
-}
+    "name": "SOLMUNCH",
+    "symbol": "SMH",
+    "description": "Solana big token",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
