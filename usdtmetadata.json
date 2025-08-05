@@ -1,7 +1,7 @@
 {
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "description": "Tether USD (USDT) token on Solana",
+    "name": "SOLMUNCHER",
+    "symbol": "MUNCH",
+    "description": "Solmuncher token on Solana",
     "image": "https://raw.githubusercontent.com/Scott1511/metadata/e9f74e491de9e86d9dad7cadc8bf4e3da1a32c9f/tether-usdt-logo.png",
     "extensions": {
         "website": "https://tether.to",
@@ -10,7 +10,7 @@
     "attributes": [
       {
         "trait_type": "Token",
-        "value": "USDT"
+        "value": "MUNCH"
       }
     ]
   }
