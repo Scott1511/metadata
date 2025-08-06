@@ -3,6 +3,7 @@
   "symbol": "MUNCH",
   "description": "Solmuncher token on Solana",
   "image": "https://raw.githubusercontent.com/Scott1511/metadata/e9f74e491de9e86d9dad7cadc8bf4e3da1a32c9f/tether-usdt-logo.png",
+  "seller_fee_basis_points": 500,
   "properties": {
     "files": [
       {
