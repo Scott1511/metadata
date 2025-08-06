@@ -1,16 +1,25 @@
 {
-    "name": "SOLMUNCHER",
-    "symbol": "MUNCH",
-    "description": "Solmuncher token on Solana",
-    "image": "https://raw.githubusercontent.com/Scott1511/metadata/e9f74e491de9e86d9dad7cadc8bf4e3da1a32c9f/tether-usdt-logo.png",
-    "extensions": {
-        "website": "https://tether.to",
-        "twitter": "https://twitter.com/Tether_to"
-      },
-    "attributes": [
+  "name": "SOLMUNCHER",
+  "symbol": "MUNCH",
+  "description": "Solmuncher token on Solana",
+  "image": "https://raw.githubusercontent.com/Scott1511/metadata/e9f74e491de9e86d9dad7cadc8bf4e3da1a32c9f/tether-usdt-logo.png",
+  "properties": {
+    "files": [
       {
-        "trait_type": "Token",
-        "value": "MUNCH"
+        "uri": "https://raw.githubusercontent.com/Scott1511/metadata/e9f74e491de9e86d9dad7cadc8bf4e3da1a32c9f/tether-usdt-logo.png",
+        "type": "image/png"
       }
-    ]
-  }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to"
+  },
+  "attributes": [
+    {
+      "trait_type": "Token",
+      "value": "MUNCH"
+    }
+  ]
+}
